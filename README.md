@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Sameh Abdelnaby</h1>
 <p align="center">
   <strong>Competitive Programmer • EOIer • International Medalist</strong><br>
-  2.5 years coding (C & C++) — focused on algorithmic thinking and precise implementations.
+  2.5 years coding — focused on algorithmic thinking and precise implementations.
 </p>
 
 ---
