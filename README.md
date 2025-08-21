@@ -20,7 +20,7 @@
 - **Participated — APIO (2025)**  
 - **Represented Egypt — IATI SHU (Junior Division) (2024)**  
 - **Qualified — EOI Juniors Winter Camp (2024)**  
-- **Worked at DataCurve (2024)**
+- **Worked as a Problem Setter and Tester (LLM Trainer) at DataCurve (2024)**
 
 ---
 
