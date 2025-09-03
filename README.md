@@ -14,10 +14,10 @@
 
 ## Some achievements
 - **Expert on Codeforces (2025)**  
-- **infO(1)Cup — Medalist (2025)**  
+- **Medalist — infO(1)Cup (2025)**  
 - **4th place (global) — TeamsCode Novice Division (2025)**  
 - **Ranked 11 in Egypt — ETSR Online Quals (2025)**  
-- **Participated — APIO (2025)**  
+- **Represented Egypt — APIO (2025)**  
 - **Represented Egypt — IATI SHU (Junior Division) (2024)**  
 - **Qualified — EOI Juniors Winter Camp (2024)**  
 - **Worked as a Problem Setter and Tester (LLM Trainer) at DataCurve (2024)**
