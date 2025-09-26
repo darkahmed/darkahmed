@@ -26,7 +26,7 @@
 
 ## Roles & community
 - Mentor — CS Club STEM  
-- Member of the council — Hack Club STEM  
+- Member of the council — Hack Club STEM Egypt
 - Problem setter — Asyut Hack Club
 
 ---
