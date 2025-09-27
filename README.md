@@ -10,7 +10,8 @@
 
 ## Quick facts
 - Based in Egypt  
-- Focus: Problem solving with Advanced data structures and algorithms
+- Specialized in advanced data structures and algorithms
+- Passionate about competitive programming challenges
 
 ---
 
