@@ -10,7 +10,7 @@
 
 ## Quick facts
 - Based in Egypt  
-- Focus: USACO topics up to **Platinum** (contest-style thinking, implementation tricks, mathy problems)  
+- Focus: Problem solving skill with Advanced data structures and algorithms
 
 ---
 
