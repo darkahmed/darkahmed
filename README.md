@@ -1,4 +1,6 @@
-<h1 align="center">Ahmed Sameh Abdelnaby</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1000&height=70&duration=3500&lines=Ahmed+Sameh+Abdelnaby" />
+</p>
 <p align="center">
   <strong>Competitive Programmer • EOI'er • International Medalist</strong><br>
   Coding in C++ since 2023 — focused on algorithmic thinking and precise implementations.
