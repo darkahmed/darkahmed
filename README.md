@@ -10,7 +10,7 @@
 
 ## Quick facts
 - Based in Egypt  
-- Focus: Problem solving skill with Advanced data structures and algorithms
+- Focus: Problem solving with Advanced data structures and algorithms
 
 ---
 
